@@ -1,5 +1,5 @@
 # Elearn Frontend (React)
-This is my first frontend project.
+This is my first frontend project on git hub.
 This is the frontend for the **Elearn Portal**, built using **React.js**. It provides a clean UI to display courses and their lessons.
 
 ---
